@@ -1,4 +1,5 @@
-## Methodology
+## Part A
+### Methodology
 Companies where found using AI tool (Chatgpt) through writing an prompt of required research data needed.
 Process of research was done as followed:
 - Collecting key words that need to be researched from given information on Githup
@@ -11,7 +12,7 @@ Process of research was done as followed:
 
 The lesson on this research was learning more about companies different manufacturing processes and products.
 
-## Code 
+### Code 
 The following is the ChatGPT prompt created and used:
 
 Hey chat, you are an AI Research Assistant. I require research upon companies in segment of speciality manufacturing from the city of Surat. I require two CSV format tables, On first table i require:
@@ -48,3 +49,22 @@ Example Differentiated has it's own column must be left blank as it shows the da
 - Systems Maturity- (Evidence that the company operates through structured systems, not just founder intuition. Look for: ERP/SAP implementation, structured costing models, MIS/dashboard usage, digital infrastructure, IT roles on LinkedIn, job postings mentioning SAP/ERP. A company that invested in operational systems already thinks structurally — they've accepted "we need process." Companies with zero systems infrastructure are significantly harder to work with.)
 
 - Leadership Succession- (Evidence of generational transition or leadership depth beyond the founder. Look for: Gen-2 formally appointed to the board (check MCA filings for appointment date), returned from external education or career before joining, taking an operational role (not just equity holding). Also: non-family professional managers hired into senior roles (COO, CFO, CTO from outside the family), independent directors on the board, multiple V4-level leaders with distinct portfolios (not one person holding every title).)
+
+## Part B
+  
+### Question 2 
+If you are offered this internship, how would you build a list of 1000 ICP-qualified companies within one month?
+
+Week 1
+- Identify ICP requirements
+- Create an structured temporary spreadsheet for un-organized data
+- Create an prompt for AI (Chatgpt/Claude) to gather companies in number of 3000 information in ICP segment
+
+Week 2
+- Automate research to be conducted by AI to be recorded to structured spreadsheet (Make.com)
+- Sort data (Filling missing data and validating)
+- filter data according to ICP conditions (Borderline cases and rules)
+
+Week 3
+- Collect top 1000 companies and input to spreadsheet that will be submitted
+- Submit assignment 
